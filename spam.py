@@ -8,7 +8,7 @@ from sklearn.naive_bayes import MultinomialNB  # used to classify the data
 
 import streamlit as st             # to built web application
 
-data = pd.read_csv("C:\project(ml)\spamdetection\spam.csv")
+data = pd.read_csv("spam.csv")
 
 #clean the data
 
