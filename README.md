@@ -14,6 +14,5 @@ A simple machine learning-powered web application to classify SMS or email messa
 - **Algorithm**: Multinomial Naive Bayes
 - **Dataset**: `spam.csv` (SMS spam collection)
 - **Accuracy**: Achieves ~98%+ accuracy on test data
-(live demo)
 - https://app-spam-detection-cpd9aenjx8uwbyekkez225.streamlit.app/
   
